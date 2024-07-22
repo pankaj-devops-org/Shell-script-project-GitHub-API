@@ -1,4 +1,12 @@
 #!/bin/bash
+##################################
+# AUthor: Pankaj
+# Date: 07/21/2024
+#
+# This script is to pull the list of users and their access in thie Github account/Org/Repo
+#
+# Version: v1
+##################################
 
 # GitHub API URL
 API_URL="https://api.github.com"
