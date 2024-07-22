@@ -1,6 +1,6 @@
 #!/bin/bash
 ##################################
-# AUthor: Pankaj
+# Author: Pankaj
 # Date: 07/21/2024
 #
 # This script is to pull the list of users and their access in thie Github account/Org/Repo
