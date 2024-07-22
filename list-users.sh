@@ -6,6 +6,13 @@
 # This script is to pull the list of users and their access in thie Github account/Org/Repo
 #
 # Version: v1
+
+# Github URL
+# Export Github UN
+# Export Github Token
+# Input Owner/org
+# Input Repo name
+
 ##################################
 
 # GitHub API URL
